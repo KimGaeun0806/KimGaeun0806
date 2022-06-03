@@ -8,9 +8,9 @@
 
   <br/>
 
-### ☄️ Skills 
+## ☄️ Skills 
 
-#### ✨ used as the main
+### ✨ used as the main
 
 <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E??style=flatr&logo=JavaScript&logoColor=black">
 <img src="https://img.shields.io/badge/HTML-E34F26??style=flatr&logo=HTML5&logoColor=white">
@@ -19,7 +19,7 @@
 
 <br/>
 
-#### ✨ used at least once
+### ✨ used at least once
 
 <img src="https://img.shields.io/badge/JAVA-007396??style=flatr&logo=Java&logoColor=white">
 <img src="https://img.shields.io/badge/MYSQL-4479A1??style=flatr&logo=MySQL&logoColor=white">
