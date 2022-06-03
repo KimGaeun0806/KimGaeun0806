@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=9FB4FF&height=70&section=header&text=KimGaeun&fontSize=20&fontColor=fff)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=9FB4FF&height=70&section=header&text=KimGaeun&fontSize=20&fontColor=fff)
 
 <br/>
 
