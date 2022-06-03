@@ -21,9 +21,10 @@
 <img src="https://img.shields.io/badge/PYTHON-3776AB??style=flatr&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/REACTNATIVE-61DAFB??style=flatr&logo=React&logoColor=black">
 
-  <br/>
+<br/>
 
-  ![KimGaeun0806's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimGaeun0806&show_icons=true&theme=buefy)
+
+![KimGaeun0806's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimGaeun0806&show_icons=true&theme=buefy)
 
 </div>
 
