@@ -11,6 +11,7 @@
 <img src="https://img.shields.io/badge/HTML-E34F26??style=flatr&logo=HTML5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS-1572B6??style=flatr&logo=CSS3&logoColor=white">
 <img src="https://img.shields.io/badge/REACT-61DAFB??style=flatr&logo=React&logoColor=black">
+<img src="https://img.shields.io/badge/NEXTJS-000000??style=flatr&logo=Next.js&logoColor=black">
 
 <br/>
 
