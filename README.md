@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/JAVA-007396??style=flatr&logo=Java&logoColor=white">
 <img src="https://img.shields.io/badge/MYSQL-4479A1??style=flatr&logo=MySQL&logoColor=white">
 <img src="https://img.shields.io/badge/PYTHON-3776AB??style=flatr&logo=Python&logoColor=white">
-<img src="https://img.shields.io/badge/REACTNATIVE-61DAFB??style=flatr&logo=React&logoColor=black">  
+<img src="https://img.shields.io/badge/REACTNATIVE-61DAFB??style=flatr&logo=React&logoColor=white">  
 
 <br/> 
 <br/> 
