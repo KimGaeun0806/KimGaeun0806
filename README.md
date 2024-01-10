@@ -9,7 +9,7 @@ TeamO2 | Frontend Development Internship ( 2022.06 - 2022.08 )
 
 Depromeet 12th ( 2022.09 - 2023.01 )
 
-Partridge Systems | Frontend Development Internship ( 2022.06 - 2023.03 )
+Partridge Systems | Frontend Development Internship ( 2022.12 - 2023.03 )
 
 boostcamp web・mobile 8th ( 2023.07 - 2023.12 )
 
