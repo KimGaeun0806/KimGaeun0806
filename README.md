@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=9FB4FF&height=70&section=header&text=KimGaeun&fontSize=20&fontColor=fff)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=e7dcbc&height=70&section=header&text=KimGaeun&fontSize=20&fontColor=523220)
 
 ### 🍞 Working Experience
 - TeamO2 | Frontend Development Internship ( 2022.06 - 2022.08 )
