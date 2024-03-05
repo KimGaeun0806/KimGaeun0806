@@ -3,12 +3,13 @@
 ### 🍞 Working Experience
 - TeamO2 | Frontend Development Internship ( 2022.06 - 2022.08 )
 - Partridge Systems | Frontend Development Internship ( 2022.12 - 2023.03 )
+- MIRIDIH | Frontend Development Internship ( 2024.03 - )
 
 <br/> 
 
 ### 🍞 Activities
 - Depromeet 12th ( 2022.09 - 2023.01 )
-- Nexters 24th ( 2024.01 - )
+- Nexters 24th ( 2024.01 - 2024.02)
 
 <br/> 
 
