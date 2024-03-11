@@ -9,7 +9,7 @@
 
 ### 🍞 Activities
 - [Depromeet](https://www.depromeet.com/) 12th ( 2022.09 - 2023.01 )
-- [Nexters](https://teamnexters.com/) 24th ( 2024.01 - 2024.02)
+- [Nexters](https://teamnexters.com/) 24th ( 2024.01 - 2024.02 )
 
 <br/> 
 
