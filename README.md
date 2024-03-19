@@ -3,7 +3,7 @@
 ### 🍞 Working Experience
 - [TeamO2](https://teamo2.kr/) | Frontend Development Internship ( 2022.06 - 2022.08 )
 - [Partridge Systems](https://partridgesystems.com/kr) | Frontend Development Internship ( 2022.12 - 2023.03 )
-- [MIRIDIH](https://www.miridih.com/) | Frontend Development Internship ( 2024.03 - )
+- [MIRIDIH](https://www.miridih.com/service) | Frontend Development Internship ( 2024.03 - )
 
 <br/> 
 
