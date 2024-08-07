@@ -19,7 +19,7 @@
 
 <br/> 
 
-### 🍞 Skills 
+<!-- ### 🍞 Skills 
 
 - used as the main
 
@@ -43,6 +43,7 @@
   <img src="https://img.shields.io/badge/THREEJS-FFFFFF??style=flatr&logo=Three.js&logoColor=black">  
   </div>
 
+-->
 
 <br/> 
 <br/> 
