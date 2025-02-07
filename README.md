@@ -1,16 +1,19 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=e7dcbc&height=70&section=header&text=KimGaeun&fontSize=20&fontColor=523220)
 
 ### 🍞 Working Experience
-- [TeamO2](https://teamo2.kr/) | Frontend Development Internship ( 2022.06 - 2022.08 )
-- [Partridge Systems](https://partridgesystems.com/kr) | Frontend Development Internship ( 2022.12 - 2023.03 )
-- [MIRIDIH](https://www.miridih.com/service) | Frontend Development Internship ( 2024.03 - 2024.06 )
 - [Kakaopay Securities](https://kakaopaysec.com/) | Frontend Development ( 2025.01 - )
+- [MIRIDIH](https://www.miridih.com/service) | Frontend Development Internship ( 2024.03 - 2024.06 )
+- [Partridge Systems](https://partridgesystems.com/kr) | Frontend Development Internship ( 2022.12 - 2023.03 )
+- [TeamO2](https://teamo2.kr/) | Frontend Development Internship ( 2022.06 - 2022.08 )
+
+
 
 <br/> 
 
 ### 🍞 Activities
-- [Depromeet](https://www.depromeet.com/) 12th ( 2022.09 - 2023.01 )
 - [Nexters](https://teamnexters.com/) 24th ( 2024.01 - 2024.02 )
+- [Depromeet](https://www.depromeet.com/) 12th ( 2022.09 - 2023.01 )
+
 
 <br/> 
 
