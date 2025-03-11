@@ -18,7 +18,7 @@
 <br/> 
 
 ### 🍞 Education
-- Hanyang University ( 2020.03 - )
+- Hanyang University ( 2020.03 - 2025.02 )
 - [boostcamp web・mobile](https://boostcamp.connect.or.kr/program_wm.html) 8th ( 2023.07 - 2023.12 )
 
 <br/> 
