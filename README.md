@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=e7dcbc&height=70&section=header&text=KimGaeun&fontSize=20&fontColor=523220)
 
 ### 🍞 Working Experience
-- [Kakaopay Securities](https://kakaopaysec.com/) | Frontend Development ( 2025.01 - )
+- [Kakaopay Securities](https://kakaopaysec.com/) | Frontend Development ( 2025.01 - 2026.10 )
 - [MIRIDIH](https://www.miridih.com/service) | Frontend Development Internship ( 2024.03 - 2024.06 )
 - [Partridge Systems](https://partridgesystems.com/kr) | Frontend Development Internship ( 2022.12 - 2023.03 )
 - [TeamO2](https://teamo2.kr/) | Frontend Development Internship ( 2022.06 - 2022.08 )
